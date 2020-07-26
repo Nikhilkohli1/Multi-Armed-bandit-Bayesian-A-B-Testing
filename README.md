@@ -1,1 +1,1 @@
-# Multi-Armed-bandit-Bayesian-A-B-Testing
+# Multi-Armed-Bandit-Bayesian-A-B-Testing
